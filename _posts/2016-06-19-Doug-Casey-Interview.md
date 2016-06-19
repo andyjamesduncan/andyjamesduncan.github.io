@@ -1,5 +1,7 @@
 ---
 published: false
+layout: post
+date: {}
 ---
 ## A Fourth Post - Doug Casey Video
 
