@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: {}
+date: 2016-06-19T00:00:00.000Z
 ---
 ## A Fourth Post - Doug Casey Video
 
