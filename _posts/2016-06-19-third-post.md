@@ -9,4 +9,6 @@ Make this the Youtube post
 
 Will this Youtube work?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VDtKyPzZWQM" frameborder="0" allowfullscreen></iframe>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/VDtKyPzZWQM/0.jpg)](http://www.youtube.com/watch?v=VDtKyPzZWQM "Doug Casey: 'We are living in the middle of the biggest bubble in history'")
+
+Did it work?
